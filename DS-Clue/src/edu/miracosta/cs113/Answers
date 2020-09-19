@@ -1,0 +1,10 @@
+1) 
+# of runs	Theory 1	Theory 2	Theory 3
+1-20	    2nd run	    17th run	8th run
+1-20	    9th run	    1st run	    N/A
+1-20	    N/A	        12th run	N/A
+1-20	    16th run	5th run	    5th run
+1-20	    N/A	        1st run	    15th run
+
+2) Good: Our strategy allows us to check each theory multiple times on multiple runs to compare with other theories/runs in each theory.
+   Bad: takes a long time to run each theory through the program with so many runs being needed.
